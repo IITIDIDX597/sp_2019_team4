@@ -4,7 +4,7 @@ Main repository for team 4
 ### Course Overview
 Course info, examples, topic, wiki
 
-https://github.com/IITIDIDX597/Course_Examples
+https://github.com/IITIDIDX597/CourseOverview
 
 ### Slack Subdomain
 Subdomain (after sign up)
