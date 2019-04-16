@@ -12,6 +12,6 @@ I want to get real-time notifications on my performance and specific encourageme
 So that I meet my race goals
 
 Acceptance Criteria:
-Given I'm an intermittent social runner who is attending a RAM race, and I have a RAM application on my mobile device and I'm wearing my earphone
-When I allow RAM application recording my running performance in the race, 
-Then I can get audio notification/ encouragement timely
+Given I'm an intermittent social runner who is running a RAM race, and I have preset a goal time for this particular race, and running with a mobile device
+When my pace drops below 85% of the avergae pace that I should maintain in order to finish the race within the preset goal 
+Then I get audio notification to pace up

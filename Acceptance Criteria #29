@@ -13,7 +13,6 @@ I want the option to be matched with other RAM runners who have similar goals/pe
 So that I can train with people who can compliment and challenge me
 
 Acceptance Criteria:
-Given I'm an intermittent social runner who has been RAM user for a long period and I have a RAM account with the record of my racing performance
-When Afte I sign in the RAM platform, I go to the report page and building connection/trainning category
-Then I can see multiple options about different groups of RAM runners
-Then I can choose if I want to training with them
+Given I'm an intermittent social runner who is a top 10% performer of the 5k races in historical average within a particular 'age +gender' subgroup
+When I opt in to see recommended connections on RAM website or app
+Then I can see and have option to message people who are within the same subgroup who also plan to attend the next race I signed up for

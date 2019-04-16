@@ -11,7 +11,17 @@ As an intermittent social runner
 I want to know about RAM races that match my personalized data
 So that I participate in the right races in order to enjoy more and/or improve my performance
 
-Acceptance Criteria:
-Given I'm an intermittent social runner with RAM account
-When I agree to share my running perfprmance with RAM by RAM application
-Then I will receive the analysis report from RAM
+Acceptance Criteria 1:
+Given I'm an intermittent social runner with a RAM account
+When I log onto RAM website or app
+Then I will see a recommended races section that has personalized race recommendations that I will likely be interested in
+
+Acceptance Criteria 2:
+Given I'm an intermittent social runner who is turning/have turned 50 within the current calendar year
+When I log onto RAM website or app and go to recommended races section
+Then I will see a race that is only for people who are turning 50 in the current year to celebrate turning 50 and still staying fit
+
+Acceptance Criteria 3:
+Given I'm an intermittent social runner whose last race finish time was within 10% longer than benchmark (benchmark: 20 min for 5k, 40 for 10k, 1hr for 15k, 4hr for full marathon / 10% longer: 20~22min for 5k etc)
+When I log onto RAM website or app and go to recommended races section
+Then I will see a race that is only for people who were in the same performance group that is motivating them/me to aim for finishing within the benchmark

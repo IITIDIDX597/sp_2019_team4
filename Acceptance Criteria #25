@@ -12,7 +12,7 @@ As an intermittent social runner
 I want to visually see lapsed timings during the race
 So that I can manage and adjust my pace wisely
 
-Acceptance Criteria：
-Given I'm an intermittent social runner who is attending the RAM race
-When I do a simple interaction on my mobile device
-Then I can see the real-time lapsed timing by notification on the mibile device
+Acceptance Criteria :
+Given I'm an intermittent social runner who is running in a RAM race
+When I hit a mile marker with a clock in the race as I run
+Then I see the time lapsed since my corral started the races (as opposed to when the race started for the first corral, which is usually the elite corral)

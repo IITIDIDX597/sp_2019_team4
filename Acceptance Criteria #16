@@ -14,6 +14,6 @@ I want access to both RAM website and mobile app
 So that I have access to appropriate level of RAM information at any time and place
 
 Acceptance Criteria
-Given I'm an intermittent social runner, I downloaded the RAM application and I'm accessible to RAM websit
-When I sign up my RAM account and sign in on the website or application
-Then I can see my pervious race data on the website or application
+Given I'm an intermittent social runner
+When I visit RAM website or app
+Then I can sign up for an account that will allow me access to all information from RAM that will be available to me

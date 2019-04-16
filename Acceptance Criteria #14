@@ -14,7 +14,6 @@ I want to know my in-race performance for each race
 So that I know how to hone my strengths and improve my weaknesses in order to increase overall race performance
 
 Acceptance Criteria:
-Given I'm an intermittent social runner with a RAM account
-When I sign in my RAM account by RAM website
-or When I subscribe the RAM analysis system
-Then I can see not only my pervious running performance also receive my customerlized racing report about my strength and weakness
+Given I'm an intermittent social runner who ran in a RAM race
+When I click on detailed peformance report
+Then I can see finely divided interval paces, trends among the intervals, mapped with elevation gain/loss of each interval

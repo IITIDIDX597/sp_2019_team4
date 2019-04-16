@@ -14,8 +14,7 @@ I want to know my performance compared to other people who participated in the r
 So that I know where I stand within different subgroups of people and provide a sense of validation of my race results
 
 Acceptance Criteria:
-Given I'm an intermittent social runner who has been RAM user for a long period and I have a RAM account with the record of my racing performance
+Given I'm an intermittent social runner who has participated in a RAM race
 When I go to RAM platform, and the page of overview of the race
-Then I have a bigger picture of the race and runner
-Then I can see my position among these participants
-Then I can get validation/certification in certain scope.
+Then I see what rank and percentile I am for overall, gender group, age group, specific age+gender group
+Then I can the rank and percentil in a visually depicted form of a bar and a dot to indicate my performance status

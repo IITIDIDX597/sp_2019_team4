@@ -12,6 +12,6 @@ I want to be able to view on all RAM race information from one RAM platform avai
 So that I can sign up from a single RAM login account
 
 Acceptance Criteria:
-Given I'm an internittent social runner who want to register for a RAM race
+Given I'm an internittent social runner who wants to register for a RAM race
 When I sign in my RAM account on RAM website/ RAM application
 Then I can sign up any RAM race by this account
