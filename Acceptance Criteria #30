@@ -12,6 +12,6 @@ I want to earn credits/points after I participate in any RAM organized event/act
 So that I can receive specific monetary discounts
 
 Acceptance Criteria:
-Given I'm an intermittent social runner attended 3 races in last 3 month
-When I go to RAM website after I checked out the third race
-Then I got discount for next RAM race
+Given I'm an intermittent social runner who attended 2 RAM races within the past year
+When I go register for my third RAM race on RAM website or mobile app
+Then I get a higher status as a member and get a 15% discount on the price for the third race at check out
