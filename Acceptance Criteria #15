@@ -14,6 +14,6 @@ I want to know my past performances in a succinct race report overview
 So that I know what progress I am making towards my personal goals
 
 Acceptance Criteria:
-Given I'm an intermittent social runner with RAM account, I've used RAM platform for a period of time and I agree to share my performance with RAM
-When I log in my account and go to the page of my recent performance report
-Then I can compare my performance in different races with my personal goal and see my trajectory
+Given I'm an intermittent social runner with RAM account with participation in at least one RAM race
+When I log in my account and go to race history section
+Then I have a visual report where I can compare my performance in different races with my personal goal and see my trajectory
