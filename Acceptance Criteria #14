@@ -1,0 +1,20 @@
+Hill:
+Intermittent social runners
+Benefit from targeted internal data and external data
+In order to assess and enhance race performance in an engaging manner.
+
+SubHill:
+The data that are available to the runner are analyzed to show the performances of the runner in all previous races - then further analyzed to indicate what the strengths and weaknesses of the runner are.
+&
+For individual races, if runner chooses to use the application during the race, the runner gets real-time feedback and support with audio notifications while running.
+
+Story:
+As an intermittent social runner
+I want to know my in-race performance for each race
+So that I know how to hone my strengths and improve my weaknesses in order to increase overall race performance
+
+Acceptance Criteria:
+Given I'm an intermittent social runner with a RAM account
+When I sign in my RAM account by RAM website
+or When I subscribe the RAM analysis system
+Then I can see not only my pervious running performance also receive my customerlized racing report about my strength and weakness

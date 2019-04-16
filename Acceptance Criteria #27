@@ -1,0 +1,17 @@
+Hill:
+Intermittent social runners
+Benefit from targeted internal data and external data
+In order to assess and enhance race performance in an engaging manner.
+
+SubHill:
+RAM platform will also give suggestions based on the data analytics and runner preferences, about training programs and other ways to prepare better and perform better in future races.
+
+Story:
+As an intermittent social runner
+I want to know about RAM races that match my personalized data
+So that I participate in the right races in order to enjoy more and/or improve my performance
+
+Acceptance Criteria:
+Given I'm an intermittent social runner with RAM account
+When I agree to share my running perfprmance with RAM by RAM application
+Then I will receive the analysis report from RAM

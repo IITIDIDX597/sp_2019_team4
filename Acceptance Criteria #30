@@ -1,0 +1,17 @@
+Hill:
+Intermittent social runners
+Benefit from targeted internal data and external data
+In order to assess and enhance race performance in an engaging manner.
+
+SubHill:
+More perks/deals/discounts to RAM organized events are available to the runner as the runner participates in more RAM races.
+
+Story:
+As an intermittent social runner,
+I want to earn credits/points after I participate in any RAM organized event/activity
+So that I can receive specific monetary discounts
+
+Acceptance Criteria:
+Given I'm an intermittent social runner who attended 2 RAM races within the past year
+When I go register for my third RAM race on RAM website or mobile app
+Then I get a higher status as a member and get a 15% discount on the price for the third race at check out

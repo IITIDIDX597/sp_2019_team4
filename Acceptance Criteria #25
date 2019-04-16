@@ -1,0 +1,18 @@
+#25
+Hill:
+Intermittent social runners
+Benefit from targeted internal data and external data
+In order to assess and enhance race performance in an engaging manner.
+
+SubHill:
+For individual races, if runner chooses to use the application during the race, the runner gets real-time feedback and support with audio notifications while running.
+
+Story:
+As an intermittent social runner
+I want to visually see lapsed timings during the race
+So that I can manage and adjust my pace wisely
+
+Acceptance Criteria：
+Given I'm an intermittent social runner who is attending the RAM race
+When I do a simple interaction on my mobile device
+Then I can see the real-time lapsed timing by notification on the mibile device
