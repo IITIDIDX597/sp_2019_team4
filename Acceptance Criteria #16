@@ -1,0 +1,19 @@
+Hill:
+Intermittent social runners
+Benefit from targeted internal data and external data
+In order to assess and enhance race performance in an engaging manner.
+
+SubHill:
+An intermittent social runner signs up for a RAM-organized race through the consolidated web platform (a website + mobile app, to which runners can log on any time, from anywhere).
+&
+The platform has all the previous race data about the runner which is visible to the runner.
+
+Story:
+As an intermittent social runner
+I want access to both RAM website and mobile app
+So that I have access to appropriate level of RAM information at any time and place
+
+Acceptance Criteria
+Given I'm an intermittent social runner, I downloaded the RAM application and I'm accessible to RAM websit
+When I sign up my RAM account and sign in on the website or application
+Then I can see my pervious race data on the website or application
