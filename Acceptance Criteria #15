@@ -1,0 +1,19 @@
+Hill:
+Intermittent social runners
+Benefit from targeted internal data and external data
+In order to assess and enhance race performance in an engaging manner.
+
+SubHill:
+The platform has all the previous race data about the runner which is visible to the runner.
+&
+By looking at the analyzed data, the runner learns about one's own performance, for individual races and for multiple races over time. The runner also can get ideas of how to make the next race 'better' (for whatever goals the runner may have for the next race).
+
+Story:
+As an intermittent social runner
+I want to know my past performances in a succinct race report overview
+So that I know what progress I am making towards my personal goals
+
+Acceptance Criteria:
+Given I'm an intermittent social runner with RAM account, I've used RAM platform for a period of time and I agree to share my performance with RAM
+When I log in my account and go to the page of my recent performance report
+Then I can compare my performance in different races with my personal goal and see my trajectory
