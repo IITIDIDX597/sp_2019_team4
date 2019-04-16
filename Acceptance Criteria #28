@@ -1,0 +1,17 @@
+Hill:
+Intermittent social runners
+Benefit from targeted internal data and external data
+In order to assess and enhance race performance in an engaging manner.
+
+SubHill:
+The platform also allows the runner to access race photos and analytics in a visually pleasing and comprehensive format (to record what the runner may have felt like at certain points and/or if anything interesting happened etc). This is ready to be shared with other runners within the RAM community, with people the runner is connected to various social media networks such as Instagram, Facebook etc, and with people on other running/training apps such as Strava, Nike Run+ etc. People can comment and tag other people to this digital sharing.
+
+Story:
+As an intermittent social runner
+I want to have timestamped in-race photos mapped to the race map
+So that I know what my pace was from point to point, gait, and what I looked/felt like in the race
+
+Acceptance Criteria:
+Given I'm an intermittent social runner who is attending a RAM race
+When I opened the function of taking my race photo before the race
+Then After race I will get a bunch of photos in a organized form which shows my racing process from RAM platform and I can share it via differnet social media
