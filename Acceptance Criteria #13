@@ -15,3 +15,9 @@ Acceptance Criteria:
 Given I'm an internittent social runner who wants to register for a RAM race
 When I sign in my RAM account on RAM website/ RAM application
 Then I can sign up any RAM race by this account
+
+Version 2
+Acceptance Criteria:
+Given I'm an internittent social  
+When I sign in my RAM account on RAM website/ RAM application to register for a RAM race
+Then I can sign up (and register?) for any RAM race through this account
