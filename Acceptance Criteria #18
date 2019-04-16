@@ -1,0 +1,17 @@
+Hill:
+Intermittent social runners
+Benefit from targeted internal data and external data
+In order to assess and enhance race performance in an engaging manner.
+
+SubHill:
+For individual races, if runner chooses to use the application during the race, the runner gets real-time feedback and support with audio notifications while running.
+
+Story:
+As an intermittent social runner
+I want to get real-time notifications on my performance and specific encouragement/coaching during a race
+So that I meet my race goals
+
+Acceptance Criteria:
+Given I'm an intermittent social runner who is attending a RAM race, and I have a RAM application on my mobile device and I'm wearing my earphone
+When I allow RAM application recording my running performance in the race, 
+Then I can get audio notification/ encouragement timely
