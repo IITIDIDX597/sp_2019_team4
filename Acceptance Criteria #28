@@ -13,5 +13,5 @@ So that I know what my pace was from point to point, gait, and what I looked/fel
 
 Acceptance Criteria:
 Given I'm an intermittent social runner who finished running in a RAM race where there were photographers taking photos of runners at certain intervals
-When I login to RAM website or app and view photos from most recent race
+When I login to RAM website or app and view photos from the most recent race
 Then I get to view all my photos taken during the race mapped to each location along the course the photos were taken
