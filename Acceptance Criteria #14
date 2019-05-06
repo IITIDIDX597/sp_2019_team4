@@ -15,5 +15,5 @@ So that I know how to hone my strengths and improve my weaknesses in order to in
 
 Acceptance Criteria:
 Given I'm an intermittent social runner who ran in a RAM race
-When I click on detailed peformance report
+When I click on 'detailed peformance report'
 Then I can see finely divided interval paces, trends among the intervals, mapped with elevation gain/loss of each interval

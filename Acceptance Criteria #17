@@ -15,6 +15,6 @@ So that I know where I stand within different subgroups of people and provide a 
 
 Acceptance Criteria:
 Given I'm an intermittent social runner who has participated in a RAM race
-When I go to RAM platform, and the page of overview of the race
-Then I see what rank and percentile I am for overall, gender group, age group, specific age+gender group
-Then I can the rank and percentil in a visually depicted form of a bar and a dot to indicate my performance status
+When I go to RAM platform, and into the 'race overview' page
+(a) Then I see what rank and percentile I am for overall, gender group, age group, specific age+gender group
+(b) Then I can the rank and percentil in a visually depicted form of bars/dots to indicate my performance status
